@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+.env*
+.DS_Store
+tsconfig.tsbuildinfo
+partner-investor-memo.*
+дизайн/
+дизайн/
+scripts/render-memo-pdf.cjs
